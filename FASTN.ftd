@@ -1,10 +1,10 @@
--- import: fastn
+-- import: fastn 
 
--- fastn.package: <user_name>.github.io/<repo_name>
-favicon: /-/<user_name>.github.io/<repo_name>/favicon.ico
+-- fastn.package: Omkar210.github.io/Myportfolio
+favicon: /-/Omkar210.github.io/Myportfolio/favicon.ico
 
 -- fastn.dependency: rutukapate.github.io/UI-Packages as package
 
 -- fastn.auto-import: package
--- fastn.auto-import: <user_name>.github.io/<repo_name>/assets
+-- fastn.auto-import: Omkar210.github.io/Myportfolio/assets
 
