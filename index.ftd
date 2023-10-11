@@ -22,7 +22,7 @@ background.solid: #1E1E1E
 -- leftsidebar.panel:
 link1: https://www.discord.com/
 link2: https://www.linkedin.com/
-link3: https://www.github.com/
+link3: https://github.com/Omkar210
 
 -- ftd.column:
 background.solid: #282C33
@@ -35,12 +35,12 @@ height: hug-content
 ;;-------Change the logo and add your own logo, while changing remember to change the path-------------------------
 ;;-----------------------------------------------------------------------------------------------------------------
 
--- navheader.navbar: Elias
+-- navheader.navbar: My Portfolio
 logo: $assets.files.images.logo.svg
-homelink: <homepage_link>
-aboutlink: <aboutpage_link>
-contactmelink: <contact_link>
-worklink: <work_link>
+homelink: www.home14.com
+aboutlink: www.aboutme.com
+contactmelink: www.contactme.com
+worklink: www.workwithme.com
 
 ;;-----------------------------------------------------------------------------------------------------------------
 ;;----------------------------Change the Title with your Title----------------------------------------------------
