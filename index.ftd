@@ -58,7 +58,7 @@ worklink: www.workwithme.com
 ;;----------------------------Change the Body with your Content----------------------------------------------------
 ;;-----------------------------------------------------------------------------------------------------------------
 
--- main.body: Elias is a Web Designer and Front-End Developer
+-- main.body: Omkar is a Web Designer and Front-End Developer
 link: https://www.candely.com/
 image: $assets.files.images.Image2.png
 label: Currently working on portfolio
