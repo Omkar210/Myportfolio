@@ -13,7 +13,7 @@
 ;;-----------------------------------------------------------------------------------------------------------------
 
 -- ftd.row:
-background.solid: #1E1E1E
+background.solid: #00134d
 
 ;;-----------------------------------------------------------------------------------------------------------------
 ;;----------------------------Change all the urls with your actuall url's------------------------------------------
@@ -21,11 +21,11 @@ background.solid: #1E1E1E
 
 -- leftsidebar.panel:
 link1: https://www.discord.com/
-link2: https://www.linkedin.com/
+link2: https://www.linkedin.com/in/omkar-gangamwar-789548274
 link3: https://github.com/Omkar210
 
 -- ftd.column:
-background.solid: #282C33
+background.solid: #00111a
 width: fill-container
 height: hug-content
 
@@ -36,7 +36,7 @@ height: hug-content
 ;;-----------------------------------------------------------------------------------------------------------------
 
 -- navheader.navbar: My Portfolio
-logo: $assets.files.images.logo.svg
+logo: $assets.Pictures.Wallpaper.vlcsnap-2023-01-15-20h46m06s025.png
 homelink: www.home14.com
 aboutlink: www.aboutme.com
 contactmelink: www.contactme.com
@@ -58,10 +58,10 @@ worklink: www.workwithme.com
 ;;----------------------------Change the Body with your Content----------------------------------------------------
 ;;-----------------------------------------------------------------------------------------------------------------
 
--- main.body: Omkar is a Web Designer and Front-End Developer
+-- main.body: I am Omkar Gangamwar and I am Full Stack Developer
 link: https://www.candely.com/
-image: $assets.files.images.Image2.png
-label: Currently working on portfolio
+image: $assets.files.images.
+label: I am Passionate And Enthusiast.
 
 Passionate about Communication, and C++,Python Programming Language with a broad knowledge in computer science principles. Always interested in expanding my knowledge and learning something new everyday. I am always open to hearing about new opportunities.
 
@@ -70,7 +70,7 @@ Passionate about Communication, and C++,Python Programming Language with a broad
 ;;-----------------------------------------------------------------------------------------------------------------
 
 -- label.quote:
-quote: With great power comes great electricity bill
+quote: Founder of Company Can't handover there business to someone, Someone Unknown.
 
 ;;-----------------------------------------------------------------------------------------------------------------
 ;;----------------------------You can add your project links and title here----------------------------------------
@@ -103,19 +103,19 @@ live3: www.live3.com
 ;;-----------------------------------------------------------------------------------------------------------------
 
 -- work.skills:
-languages: TypeScript Lua Python Javascript
-databases: SQLite PostgreSQL Mongo
-other: HTML CSS EJS SCSS REST Jinja
+languages: In-Depth Knowledge of Python, C/C++, PostgreSQL, Full Stack Developer, Poster Designer.
+databases: PostgreSQL 
+other: HTML CSS JS React 
 tools: VSCode Neovim Linux Figma XFCE Arch Git Font Awesome
-frameworks: React Vue Disnake Discord.js Flask Express.js
+frameworks: React Vue Disnake Discord.js Flask Express.js Node.js
 
--- me.aboutme: Hello, i’m Elias!
+-- me.aboutme: Hello, I’m Omkar!!!
 link: www.readmore.com
 image: $assets.files.images.Image.png
 
-I’m a self-taught front-end developer based in Kyiv, Ukraine. I can develop responsive websites from scratch and raise them into modern user-friendly web experiences. 
+I’m a self-taught front-end developer based in Yavatmal, Maharashtra.  
 
-Transforming my creativity and knowledge into a websites has been my passion for over a year. I have been helping various clients to establish their presence online. I always strive to learn about the newest technologies and frameworks.
+I'm Trying to Transform my creativity and knowledge into a websites has been my passion for over a year. I have been helping various clients to establish their presence online. I always strive to learn about the newest technologies and frameworks.
 
 ;;-----------------------------------------------------------------------------------------------------------------
 ;;----------------------------Change the Contact Detail's with your contact details--------------------------------
@@ -123,10 +123,10 @@ Transforming my creativity and knowledge into a websites has been my passion for
 
 -- contactinfo.contact:
 discordlink: https://www.discord.com/
-githublink: https://www.github.com/
-linkedinlink: https://www.linkedin.com/
+githublink: https://github.com/Omkar210
+linkedinlink: https://www.linkedin.com/in/omkar-gangamwar-789548274/
 
-I’m interested in freelance opportunities. However, if you have other request or question, don’t hesitate to contact me.
+I'm Full-stack Developer.
 
 ;;-----------------------------------------------------------------------------------------------------------------
 ;;----------------------------Change the Name with your actual Name-----------------------------------------------
@@ -138,10 +138,10 @@ I’m interested in freelance opportunities. However, if you have other request 
 -- navfooter.footer: Elias
 logo: $assets.files.images.logo.svg
 discordlink: https://www.discord.com/
-githublink: https://www.github.com/
-linkedinlink: https://www.linkedin.com/
+githublink: https://github.com/Omkar210
+linkedinlink: https://www.linkedin.com/in/omkar-gangamwar-789548274/
 
-Web designer and front-end developer
+Poster & Logo designer and Full-Stack Developer
 
 -- end: ftd.column
 
